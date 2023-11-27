@@ -38,6 +38,7 @@ spé Legion : https://poeplanner.com/atlas-tree/BAAKAGQAXz4PgWXyArYe12IDePjlMWzz
  7. tulina.  
  8. Nenet.
 
+ guide sur le sujet https://youtu.be/diMCoubOBd4
 ## tips divers
 
 ## builds potentiels
