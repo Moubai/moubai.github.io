@@ -6,7 +6,7 @@ voir tableau
 
 |lien|sujet|
 |----|-----|
-|https://github.com/PathOfBuildingCommunity/PathOfBuilding | Path of building community |
+|<https://github.com/PathOfBuildingCommunity/PathOfBuilding> | Path of building community |
 |https://github.com/ChaosRecipeEnhancer/EnhancePoEApp/releases |  Chaos recipe Enchancer - permet de faire les set de chaos recipe facilement |
 |https://github.com/SnosMe/awakened-poe-trade/releases | Awakened poe Trade - permet de vérifier le prix d'un item facilement
 |https://github.com/Morph21/MercuryTrade-Community-Fork | Mercury trade - interface pour trade plus facilement
