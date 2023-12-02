@@ -24,9 +24,11 @@ voir tableau
 |<https://heartofphos.github.io/exile-leveling/#/build> | aide pour leveler à partir d'un build pob |
 
 ## atlas start league
-Start League atlas 
+Start League atlas.   
 [spé Legion](https://poeplanner.com/atlas-tree/BAAKAGQAXz4PgWXyArYe12IDePjlMWzzCEOLLhGEXaCEKmSA_sXxVLj_p-LzW_16MPoo53hmlIOl2hCAXp3OWsn9-nR9Wo3qk_KovPz6KrvZW30erzq3XX2RBmoOSt7-nzumNAf01ysqEntgKl6HnS370MbsDwLFKY2OOYomfiuCUYjo3YPwgLPH4RBOG6LQ4Axb1l9KyxfPiRfdkc7EH67vE30Yi_21C3HBdP1t1WI4xgMwZoczxncU2JvVaalD-uVmHz8ITPIc3elnJuYUAB-LCAAAAAAAAAMDAAAAAAAAAAAA)
+
 [spé heist+blight](https://poeplanner.com/a/URG)
+
 ## Heist
 [Guide video sur la heist](https://www.youtube.com/watch?v=diMCoubOBd4)
 [infos jobs](https://poedb.tw/us/Heist_league#Jobs)
