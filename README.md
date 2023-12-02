@@ -48,5 +48,17 @@ Start League atlas.
   Trinket: best in slot = chaos orb to divine orb
 
 ## tips divers
+### poe lurker
+#### [Incoming Trades](https://docs.google.com/presentation/d/1XhaSSNAFGxzouc5amzAW8c_6ifToNjnsQq5UmNgLXoo/present?slide=id.g6e2508016e_0_0):
+- `First Click`: invite buyer to your party.
+- `Long mouse down (500ms)`: invite buyer to your party.
+- `Second Click`: send trade request.
+- `Left/Blue corner`: "Busy" message.
+- `Right/Red corner`: dismiss Buyer's offer.
+- `Right-Click`: /Whois Buyer.
+- `Alt-Click`: set active offer (if you have multiple incoming trades).
+- `Ctrl-Click`: "Already Sold" message.
+- `Ctrl-Shift-Click`: "Still Interested?" message.
+- `Click Health Globe`: highlight item in stash (must manually click relevant stash tab).
 
 ## builds potentiels
