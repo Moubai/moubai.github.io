@@ -26,8 +26,10 @@ voir tableau
 ## atlas start league
 Start League atlas 
 [spé Legion](https://poeplanner.com/atlas-tree/BAAKAGQAXz4PgWXyArYe12IDePjlMWzzCEOLLhGEXaCEKmSA_sXxVLj_p-LzW_16MPoo53hmlIOl2hCAXp3OWsn9-nR9Wo3qk_KovPz6KrvZW30erzq3XX2RBmoOSt7-nzumNAf01ysqEntgKl6HnS370MbsDwLFKY2OOYomfiuCUYjo3YPwgLPH4RBOG6LQ4Axb1l9KyxfPiRfdkc7EH67vE30Yi_21C3HBdP1t1WI4xgMwZoczxncU2JvVaalD-uVmHz8ITPIc3elnJuYUAB-LCAAAAAAAAAMDAAAAAAAAAAAA)
-
+[spé heist+blight](https://poeplanner.com/a/URG)
 ## Heist
+[Guide sur la heist](https://www.youtube.com/watch?v=diMCoubOBd4)
+<https://poedb.tw/us/Heist_league#Jobs>
   ### pnj a faire dans l'ordre suivant
  1. Karst.  
  2. Huck.  
@@ -38,7 +40,17 @@ Start League atlas
  7. tulina.  
  8. Nenet.
 
- guide sur le sujet <https://youtu.be/diMCoubOBd4>
+  ### regex recherche
+  "engi duplicate" (cibler les coffres à maps)
+  
+  ### items pnj
+  Arme: arrow lvl5 (ou 3 pour huck) avec Grant level 15 haste skill
+  cape: x% chance on opening chest to not generate alert level ou x% reduced raison of alert levelg from opening chest
+  amulette: duplicate basic currency + job speed, pour le farme de rogue marker avoir x% increased rogue's marker value of primary heist target en plus
+  perk : +1 to level job afin de pouvoir farmer plus de faveurs de giana (spam alté avec le mot "all jobs")
+
+  Trinket: best in slot = chaos orb to divine orb
+
 ## tips divers
 
 ## builds potentiels
