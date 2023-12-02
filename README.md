@@ -34,14 +34,7 @@ Start League atlas.
 [infos jobs](https://poedb.tw/us/Heist_league#Jobs)
 
   ### pnj a faire dans l'ordre suivant
- 1. Karst.  
- 2. Huck.  
- 3. Niles.  
- 4. Vinderi.  
- 5. Giana.  
- 6. Tibbs.  
- 7. tulina.  
- 8. Nenet.
+  <https://poedb.tw/us/Heist_league#NPCsIntro>
 
   ### regex recherche
   "engi duplicate" (cibler les coffres à maps)
