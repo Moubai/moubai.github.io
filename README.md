@@ -41,8 +41,8 @@ Start League atlas.
   
   ### items pnj
   Arme: arrow lvl5 (ou 3 pour huck) avec Grant level 15 haste skill
-  cape: x% chance on opening chest to not generate alert level ou x% reduced raison of alert levelg from opening chest
-  amulette: duplicate basic currency + job speed, pour le farme de rogue marker avoir x% increased rogue's marker value of primary heist target en plus
+  cape: x% chance on opening chest to not generate alert level ou x% reduced raison of alert level from opening chest
+  amulette: "duplicate contained basic currency" + job speed, pour le farme de rogue marker avoir x% increased rogue's marker value of primary heist target en plus
   perk : +1 to level job afin de pouvoir farmer plus de faveurs de giana (spam alté avec le mot "all jobs")
 
   Trinket: best in slot = chaos orb to divine orb
