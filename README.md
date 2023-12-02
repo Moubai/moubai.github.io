@@ -30,8 +30,9 @@ Start League atlas.
 [spé heist+blight](https://poeplanner.com/a/URG)
 
 ## Heist
-[Guide video sur la heist](https://www.youtube.com/watch?v=diMCoubOBd4)
+[Guide video sur la heist](https://www.youtube.com/watch?v=diMCoubOBd4).  
 [infos jobs](https://poedb.tw/us/Heist_league#Jobs)
+
   ### pnj a faire dans l'ordre suivant
  1. Karst.  
  2. Huck.  
