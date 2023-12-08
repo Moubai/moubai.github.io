@@ -6,11 +6,11 @@ voir tableau
 
 |lien|sujet|
 |--|-----|
-|<https://github.com/PathOfBuildingCommunity/PathOfBuilding> | Path of building community |
+|<https://github.com/PathOfBuildingCommunity/PathOfBuilding/releases> | Path of building community |
 |<https://github.com/ChaosRecipeEnhancer/EnhancePoEApp/releases> |  Chaos recipe Enchancer - permet de faire les set de chaos recipe facilement |
 |<https://github.com/SnosMe/awakened-poe-trade/releases> | Awakened poe Trade - permet de vérifier le prix d'un item facilement
-|<https://github.com/Morph21/MercuryTrade-Community-Fork> | Mercury trade - interface pour trade plus facilement
-|<https://github.com/exilence-ce/exilence-ce> | suivi monétaire
+|<https://github.com/C1rdec/Poe-Lurker/releases> | poe lurker - interface pour trade plus facilement
+|<https://github.com/exilence-ce/exilence-ce/releases> | suivi monétaire
 |<https://poe.ninja> | site pour vérifier les prix |
 |<https://poestack.com> | site pour connaitre la valeur des onglets de coffre |
 |<https://www.pohx.net> | le spécialiste du RF |
