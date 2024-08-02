@@ -12,7 +12,7 @@ voir tableau
 |<https://github.com/C1rdec/Poe-Lurker/releases> | poe lurker - interface pour trade plus facilement
 |<https://github.com/exilence-ce/exilence-ce/releases> | suivi monétaire
 |<https://poe.ninja> | site pour vérifier les prix |
-|<https://poestack.com> | site pour connaitre la valeur des onglets de coffre |
+|<https://wealthyexile.com/> | site pour connaitre la valeur des onglets de coffre |
 |<https://www.pohx.net> | le spécialiste du RF |
 |<https://poe.re/#/expedition> | regex pour filtrer les items valant le coup chez Gwenen (gamble expedition) |
 |<https://vilsol.github.io/timeless-jewels> | pour calculer les jewel timeless |
@@ -24,10 +24,10 @@ voir tableau
 |<https://heartofphos.github.io/exile-leveling/#/build> | aide pour leveler à partir d'un build pob |
 
 ## atlas start league
-Start League atlas.   
+Start League atlas. n'est plus à jour (version 3.24)   
 [spé Legion](https://poeplanner.com/atlas-tree/BAAKAGQAXz4PgWXyArYe12IDePjlMWzzCEOLLhGEXaCEKmSA_sXxVLj_p-LzW_16MPoo53hmlIOl2hCAXp3OWsn9-nR9Wo3qk_KovPz6KrvZW30erzq3XX2RBmoOSt7-nzumNAf01ysqEntgKl6HnS370MbsDwLFKY2OOYomfiuCUYjo3YPwgLPH4RBOG6LQ4Axb1l9KyxfPiRfdkc7EH67vE30Yi_21C3HBdP1t1WI4xgMwZoczxncU2JvVaalD-uVmHz8ITPIc3elnJuYUAB-LCAAAAAAAAAMDAAAAAAAAAAAA)
 
-[spé heist+blight](https://poeplanner.com/a/URG)
+[spé heist+blight](https://poeplanner.com/a/URG) 3.24
 
 ## Heist
 [Guide video sur la heist](https://www.youtube.com/watch?v=diMCoubOBd4).  
