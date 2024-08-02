@@ -29,6 +29,9 @@ Start League atlas. n'est plus à jour (version 3.24)
 
 [spé heist+blight](https://poeplanner.com/a/URG) 3.24
 
+## vendore recipe cheatsheed
+![Vendor Recipe Cheat Sheet](https://github.com/willhuynh/VendorRecipeCheatsheet/blob/main/Standard.png)
+
 ## Heist
 [Guide video sur la heist](https://www.youtube.com/watch?v=diMCoubOBd4).  
 [infos jobs](https://poedb.tw/us/Heist_league#Jobs)
