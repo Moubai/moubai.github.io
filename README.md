@@ -30,7 +30,7 @@ Start League atlas. n'est plus à jour (version 3.24)
 [spé heist+blight+delirium](https://poeplanner.com/a/-Tv) 3.25
 
 ## vendore recipe cheatsheet
-![Vendor Recipe Cheat Sheet](https://github.com/willhuynh/VendorRecipeCheatsheet/blob/main/Standard.png)
+![Vendor Recipe Cheat Sheet](https://github.com/willhuynh/VendorRecipeCheatsheet/blob/main/Standard.png "vendore recipe")
 
 ## Heist
 [Guide video sur la heist](https://www.youtube.com/watch?v=diMCoubOBd4).  
