@@ -328,5 +328,447 @@ Les repacks sont des jeux compressés. Ils peuvent prendre beaucoup de temps à 
 ## Stuff divers
 - Canva - Liens d'invitation vers des groupes de travail sur Canva, ouvrant toutes les fonctionnalités premium : [ProInviteLinks](https://www.proinvitelinks.com/?m=1) - [Télégram 01](https://t.me/Canva_pro_team_links) - [Telegram 02](https://t.me/+vr2mIq-bj3NmYmU9)
 
+
+
+
+->![Telegram](https://files.catbox.moe/7lctv9.svg){20px:20px} https://t.me/firehawk52official<-
+->![Discord](https://files.catbox.moe/6ai2fh.svg){20px:20px} https://discord.gg/uqfQbzHj6K<-
+->![Website](https://files.catbox.moe/evpuqg.png){20px:20px} https://firehawk52.com<-
+# Firehawk52 Official - Preserving Digital Legacy
+
+!!! warning
+	->**JOIN OUR NEW SITE FOR ARLS, TOKENS, ACCOUNTS AND INVITES!** - The Rentry will eventually be completely replaced by this new site and will not be updated anymore!<-
+	# [FIREHAWK52.COM](https://firehawk52.com)
+
+->**As featured on:** [Champagne Wiki](https://champagne.pages.dev/music/#download), [freemediaheckyeah](https://fmhy.net/beginners-guide#downloading), [r/Piracy](https://www.reddit.com/r/Piracy/wiki/megathread/music/#wiki_.1F410_firehawk52), and [ripped.guide](https://ripped.guide/Audio/Music/#misc)<-
+
+->**Partners:** [DoubleDouble](https://doubledouble.top) / [Group](https://t.me/+AuKfQGOOLrFlOTZk) |  [Lucida](https://lucida.to) or [mirror](https://lucida.su) / [Group](https://t.me/lucidahasmusic)<-
+
+->![Firehawk52](https://files.catbox.moe/evpuqg.png)<-
+
+!!! warning
+    ->Qobuz changed the authentication system and how app_id and secret works. Check this [site](https://telegra.ph/How-to-fix-403---Invalid-usernameemail-and-password-10-12) by mttw for more information.<-
+
+->:heart: **Support the project** :heart:<-
+
+!!! info
+
+	->[![Support me on ko-fi.com](https://files.catbox.moe/td3cv1.png)](https://ko-fi.com/firehawk52)<-
+
+!!! info
+
+Binance ID: `36575480`
+
+Monero: `84Z2X9GpYKTZ2XqmDnnJajRgPdAuPE9z3Hy9Q2irEYTG8SJA6aZxM9wGLMxuAUMLm4QkxCvyxE2jQcDDnYP9Sqij91a1av2`
+Bitcoin/Bitcoin Cash: `1AWsdsUzpZmMw3wbpPRJ5B8AsTL5PwyC4b`
+Litecoin: `LgH5Fam4UXZMqYrupRqPJvbyZuoUQai82z`
+Ethereum: `0x2e03212e147287aa2a67c7cfd5286f24779f0b42`
+TON: `UQBvuftd7_VyD3JmmhtJ0vjIN3_KOM_dlO58ybj5hbvIT-iQ`
+
+(contact me for other crypto-wallets)
+
+[TOC]
+***
+
+> ## Software and Tools
+
+### ![Deezer](https://files.catbox.moe/334fmr.svg){40px:40px} Deezer
+
+#### ReFreezer
+
+:star: ReFreezer is an alternative Deezer music streaming & downloading client for Android, based on Freezer. Log in to ReFreezer and stream and download up to 16bit FLAC, straight from the Deezer's servers. Thanks to [DJDoubleD](https://github.com/DJDoubleD). Remember to get an [ARL](#deezer-arls).
+
+⬇ [Download](https://github.com/DJDoubleD/refreezer/releases/latest) - Support channel: https://t.me/firehawk52official/36068
+
+!!! info
+    See [GitHub](https://github.com/DJDoubleD/refreezer/blob/master/README.md#compile-from-source) for installation instructions.
+
+#### OrpheusDL (Deezer)
+
+⬇ Download [OrpheusDL](https://github.com/OrfiTeam/OrpheusDL) and [Deezer module](https://github.com/TheKVT/orpheusdl-deezer).  Thanks to [OrfiTeam](https://github.com/OrfiTeam) and [TheKVT](https://github.com/TheKVT). Remember to get an [ARL](#deezer-arls).
+
+!!! info
+    See [GitHub](https://github.com/TheKVT/orpheusdl-deezer/blob/master/README.md#installation) for installation instructions.
+
+#### Streamrip (Deezer)
+
+⬇ [Download](https://github.com/nathom/streamrip). Thanks to [nathom](https://github.com/nathom). Remember to get an [ARL](#deezer-arls).
+
+!!! info
+    See [GitHub](https://github.com/nathom/streamrip/blob/dev/README.md#installation) for installation instructions.
+
+#### Deemix
+
+Listen to and download music from Deezer. Remember to get an [ARL](#deezer-arls). There are two versions from two different developers.
+
+1. The old one has not been updated since 2022, but it still works.
+
+⬇ [Download](https://firehawk52.larissa.usbx.me/filebrowser/share/gSHHPA6V) (Windows, Linux, Mac)
+
+2. The new DeemixFix is a new version that still has some issues, but hopefully the development will continue.
+
+⬇ [Download](https://firehawk52.larissa.usbx.me/filebrowser/share/jaKyb7Fz) (Windows, Linux, Mac)
+
+#### Murglar
+
+Listen to and download music from Deezer. Remember to get an [ARL](#deezer-arls).
+
+⬇ Download Android [here](https://github.com/badmannersteam/murglar-downloads/releases/latest)
+⬇ Download Desktop (Windows, Linux, Mac) [here](https://firehawk52.larissa.usbx.me/filebrowser/share/mVK2jWb3)
+
+English support channel: https://t.me/murglardiscussen | Official website: https://murglar.app/
+
+### ![Qobuz](https://files.catbox.moe/295w2s.svg){40px:40px} Qobuz
+
+#### QobuzDownloaderX-MOD
+
+:star: QobuzDownloaderX-MOD is a program for downloading music streams from the streaming platform Qobuz. Thanks to [DJDoubleD](https://github.com/DJDoubleD). Remember to get a [token](#qobuz-tokens).
+
+⬇ [Download](https://github.com/DJDoubleD/QobuzDownloaderX-MOD/releases/download/1.2.7.0/QBDLX-MOD_1.2.7.0.zip) - support channel: https://t.me/firehawk52official/36068
+
+!!! info
+    Open the software and click "Can't login?" to use user ID and token. Get links with the the user script linked and click on Download. You can also use the internal search by clicking on **Open Search**. You can download tracks, albums, artists, playlists and even labels.
+
+	More information [in this wiki](https://github.com/DJDoubleD/QobuzDownloaderX-MOD/wiki)
+
+	**The following links are supported:** :star: = QobuzDownloaderX-MOD only
+
+    **Tracks:** `https://play.qobuz.com/track/<id>` e.g. https://play.qobuz.com/track/**130019011**
+
+    **Albums:** `https://play.qobuz.com/album/<id>` e.g. https://play.qobuz.com/album/**abm5xpbil0kxc**
+
+	:star: `https://www.qobuz.com/<CountryCode>/album/<AlbumName>/<id>` e.g. https://www.qobuz.com/**us-en**/album/**the-myth-of-the-happily-ever-after-biffy-clyro**/**abm5xpbil0kxc**
+
+    **Artists:** `https://play.qobuz.com/artist/<id>` e.g. https://play.qobuz.com/artist/**203537**
+
+	:star: `https://www.qobuz.com/<CountryCode>/interpreter/<ArtistName>/<id>` e.g. https://www.qobuz.com/**us-en**/interpreter/**biffy-clyro**/**203537**
+
+	**Labels:** `https://play.qobuz.com/label/<id>` e.g. https://play.qobuz.com/label/**324017**
+
+	:star: `https://www.qobuz.com/<CountryCode>/label/<LabelName>/download-streaming-albums/<id>` e.g. https://www.qobuz.com/**us-en**/label/**warner-records**/download-streaming-albums/**324017**
+
+	**Playlists:** `https://play.qobuz.com/playlist/<id>` e.g. https://play.qobuz.com/playlist/**2049430**
+
+	For easy copy-paste links, see the [userscript](https://rentry.co/qobuzlinkifier)
+
+	**If using private account:**
+
+	https://play.qobuz.com/user/library/favorites/albums to download your favorite albums
+
+#### OrpheusDL (Qobuz)
+
+⬇ Download [OrpheusDL](https://github.com/OrfiTeam/OrpheusDL) and [Qobuz module](https://github.com/TheKVT/orpheusdl-qobuz).  Thanks to [OrfiTeam](https://github.com/OrfiTeam) and [TheKVT](https://github.com/TheKVT). Remember to get a [token](#qobuz-tokens).
+
+!!! info
+    See [GitHub](https://github.com/TheKVT/orpheusdl-qobuz/blob/master/README.md#installation) for instructions.
+
+#### Streamrip (Qobuz)
+
+⬇ [Download](https://github.com/nathom/streamrip). Thanks to [nathom](https://github.com/nathom). Remember to get a [token](#qobuz-tokens).
+
+!!! info
+    See [GitHub](https://github.com/nathom/streamrip/blob/dev/README.md#installation) for instructions.
+
+### ![Beatport](https://files.catbox.moe/vxxh5f.svg){40px:40px} Beatport
+
+#### OrpheusDL (Beatport)
+
+⬇ Download [OrpheusDL](https://github.com/OrfiTeam/OrpheusDL) and [Beatport module](https://github.com/Dniel97/orpheusdl-beatport).  Thanks to [OrfiTeam](https://github.com/OrfiTeam) and [Dniel97](https://github.com/Dniel97).
+
+!!! info
+    See [GitHub](https://github.com/Dniel97/orpheusdl-beatport/blob/master/README.md#installation) for instructions.
+
+### ![Bugs!](https://files.catbox.moe/9xp7am.svg){40px:40px} Bugs!
+
+#### OrpheusDL (Bugs!)
+
+⬇ Download [OrpheusDL](https://github.com/OrfiTeam/OrpheusDL) and [Bugs! module](https://github.com/Dniel97/orpheusdl-bugsmusic).  Thanks to [OrfiTeam](https://github.com/OrfiTeam) and [Dniel97](https://github.com/Dniel97).
+
+!!! info
+    See [GitHub](https://github.com/Dniel97/orpheusdl-bugsmusic/blob/master/README.md#installation) for instructions.
+
+### ![IDAGIO](https://files.catbox.moe/s7nwa7.svg){40px:40px} IDAGIO
+
+#### OrpheusDL (IDAGIO)
+
+⬇ Download [OrpheusDL](https://github.com/OrfiTeam/OrpheusDL) and [IDAGIO module](https://github.com/Dniel97/orpheusdl-idagio).  Thanks to [OrfiTeam](https://github.com/OrfiTeam) and [Dniel97](https://github.com/Dniel97).
+
+!!! info
+    See [GitHub](https://github.com/Dniel97/orpheusdl-idagio/blob/master/README.md#installation) for instructions.
+
+### ![Jisosaavn](https://files.catbox.moe/sxl7sk.svg){40px:40px} Jiosaavn
+
+#### OrpheusDL (Jiosaavn)
+
+⬇ Download [OrpheusDL](https://github.com/OrfiTeam/OrpheusDL) and [Jiosaavn module](https://github.com/bunnykek/orpheusdl-jiosaavn).  Thanks to [OrfiTeam](https://github.com/OrfiTeam) and [bunnykek](https://github.com/bunnykek).
+
+!!! info
+    See [GitHub](https://github.com/bunnykek/orpheusdl-jiosaavn/blob/main/README.md#installation) for instructions.
+
+### ![KKBox](https://files.catbox.moe/obh5u7.svg){40px:40px} KKBox
+
+#### OrpheusDL (KKBox)
+
+⬇ Download [OrpheusDL](https://github.com/OrfiTeam/OrpheusDL) and [KKBox module](https://github.com/uhwot/orpheusdl-kkbox).  Thanks to [OrfiTeam](https://github.com/OrfiTeam) and [uhwot](https://github.com/uhwot/).
+
+!!! info
+    See [GitHub](https://github.com/uhwot/orpheusdl-kkbox/blob/master/README.md#installation) for instructions.
+
+### ![Napster](https://files.catbox.moe/582g4f.svg){40px:40px} Napster
+
+#### OrpheusDL (Napster)
+
+⬇ Download [OrpheusDL](https://github.com/OrfiTeam/OrpheusDL) and [Napster module](https://github.com/OrfiDev/orpheusdl-napster).  Thanks to [OrfiTeam](https://github.com/OrfiTeam).
+
+!!! info
+    See [GitHub](https://github.com/OrfiDev/orpheusdl-napster/blob/main/README.md#installation) for instructions.
+
+### ![Nugs](https://files.catbox.moe/8txefk.svg){40px:40px} Nugs
+
+#### OrpheusDL (Nugs)
+
+⬇ Download [OrpheusDL](https://github.com/OrfiTeam/OrpheusDL) and [Nugs module](https://github.com/Dniel97/orpheusdl-nugs).  Thanks to [OrfiTeam](https://github.com/OrfiTeam) and [Dniel97](https://github.com/Dniel97).
+
+!!! info
+    See [GitHub](https://github.com/Dniel97/orpheusdl-nugs/blob/master/README.md#installation) for instructions.
+
+### ![SoundCloud](https://files.catbox.moe/90zyfi.svg){40px:40px} SoundCloud
+
+#### OrpheusDL (SoundCloud)
+
+⬇ Download [OrpheusDL](https://github.com/OrfiTeam/OrpheusDL) and [SoundCloud module](https://github.com/OrfiDev/orpheusdl-soundcloud).  Thanks to [OrfiTeam](https://github.com/OrfiTeam).
+
+!!! info
+    See [GitHub](https://github.com/OrfiDev/orpheusdl-soundcloud/blob/master/README.md#installation) for instructions.
+
+#### Streamrip (SoundCloud)
+
+⬇ [Download](https://github.com/nathom/streamrip). Thanks to [nathom](https://github.com/nathom). Remember to get a [token](#qobuz-tokens).
+
+!!! info
+    See [GitHub](https://github.com/nathom/streamrip/blob/dev/README.md#installation) for installation instructions.
+
+### ![Spotify](https://files.catbox.moe/umltpc.svg){40px:40px} Spotify
+
+#### Glomatico's Spotify Web Downloader
+
+⬇ [Download](https://github.com/glomatico/spotify-web-downloader/releases/latest). Download songs/albums/playlists directly from Spotify in 256kbps/128kbps AAC. Thanks to [Glomatico](https://github.com/glomatico)
+
+!!! info
+    See [GitHub](https://github.com/glomatico/spotify-web-downloader/blob/main/README.md#installation) for installation instructions.
+
+#### Zotify
+
+⬇ [Download](https://github.com/zotify-dev/zotify/blob/main/INSTALLATION.md). Zotify (replaces ZSpotify) is a Spotify downloader that enables users to find and download songs. Thanks to [zotify-dev](https://github.com/zotify-dev)
+
+!!! info
+    See [GitHub](https://github.com/zotify-dev/zotify/blob/main/INSTALLATION.md#installing-zotify) for installation instructions.
+
+### ![Tidal](https://files.catbox.moe/wc3wj5.svg){40px:40px} Tidal
+
+#### TIDAL Downloader Next Generation! (tidal-dl-ng)
+
+⬇ [Download](https://github.com/exislow/tidal-dl-ng/releases/latest). This tool for Windows, Linux and Mac allows you to download songs and videos from TIDAL. Audio quality varies up to HiRes Lossless / TIDAL MAX 24 Bit, 192 kHz depending on the song available. You can use the command line or GUI version of this tool. Thanks to [exislow](https://github.com/exislow). Remember to get an [account](https://t.me/firehawk52official/1/59604). Do NOT change passwords!
+
+!!! info
+    See [GitHub](https://github.com/exislow/tidal-dl-ng/blob/master/README.md#-installation--upgrade) for installation instructions.
+
+#### OrpheusDL (Tidal)
+
+⬇ Download [OrpheusDL](https://github.com/OrfiTeam/OrpheusDL) and [Tidal module](https://github.com/Dniel97/orpheusdl-tidal). Thanks to [OrfiTeam](https://github.com/OrfiTeam) and [Dniel97](https://github.com/Dniel97). Remember to get an [account](https://t.me/firehawk52official/1/59604). Do NOT change passwords!
+
+!!! info
+    See [GitHub](https://github.com/Dniel97/orpheusdl-tidal/blob/master/README.md#installation) for installation instructions.
+
+#### Streamrip (Tidal)
+
+⬇ [Download](https://github.com/nathom/streamrip). Thanks to [nathom](https://github.com/nathom). Remember to get an [account](https://t.me/firehawk52official/1/59604). Do NOT change passwords!
+
+!!! info
+    See [GitHub](https://github.com/nathom/streamrip/blob/dev/README.md#installation) for installation instructions.
+
+### ![YouTube](https://files.catbox.moe/3t7vwt.svg){40px:40px} YouTube
+
+#### shira
+
+⬇ [Download](https://github.com/KraXen72/shira/blob/master/README.md#installation). Download music from YouTube, YouTube Music and Soundcloud with great metadata and little effort. Thanks to [KraXen](https://github.com/KraXen72).
+
+!!! info
+    See [GitHub](https://github.com/KraXen72/shira/blob/master/README.md#installation) for installation instructions.
+
+#### Glomatico's YouTube Music Downloader
+
+⬇ [Download](https://github.com/glomatico/gytmdl/blob/master/README.md#installation). Download YouTube Music songs/albums/playlists with tags from YouTube Music in 256kbps AAC/128kbps Opus/128kbps AAC. Thanks to [Glomatico](https://github.com/glomatico)
+
+!!! info
+    See [GitHub](https://github.com/glomatico/gytmdl/blob/master/README.md#installation) for installation instructions.
+
+### Telegram-bots
+
+#### Misc bots
+##### Generate and check
+https://t.me/account_tools_bot (Check Qobuz tokens and Deezer ARLs and generate Qobuz tokens for all countries). Thanks to Tmxkwpn.
+https://t.me/TokenArlbot (Check Qobuz tokens and Deezer ARLs). Thanks to SyN.
+##### Mediainfo
+https://t.me/mediainfo_genbot (Mediainfo for Telegram files and Apple Music). Thanks to TheKVT.
+##### Odesli-bot
+https://t.me/odeslitgbot (Generate alternative links from Songlink/Odesli/Songwhip)
+#### Multi-downloaders
+https://t.me/scdlbot (SoundCloud and YouTube)
+#### Amazon Music
+https://t.me/GlomaticoAmazonMusicBot (thanks to Glomatico)
+#### Apple Music
+https://t.me/bayapplemusicbot
+https://t.me/GlomaticoAppleMusicBot (thanks to Glomatico)
+#### Beatport
+https://t.me/beatport_downloader_bot (thanks to Filosk)
+#### Deezer
+https://t.me/deezload2bot - ==ARLs== [see above](#deezer-arls)
+***
+> ## Guides and scripts
+
+### Multi-platform
+
+##### Install Streamrip on Termux (Android)
+
+!!! info
+	[Read Guide](https://telegra.ph/Install-streamrip-in-Termux-01-29). Install Streamrip on Termux (Android). Thanks to DJDoubleD. Support-channel: https://t.me/firehawk52official
+
+### ![Apple Music](https://files.catbox.moe/83clnf.svg){40px:40px} Apple Music
+
+##### Download ALAC locally without emulator
+
+!!! info
+	**Recommended! :star:** [Read Guide](https://rentry.co/AppleMusicDecrypt). Download ALAC and AAC on Windows locally without emulator, if you have paid account. Follow guide *carefully*. Not for novices. Thanks to 0dx.
+
+	**Note:** AppleMusicDecrypt has been taken down until further notice. Get the latest version [here](https://firehawk52.larissa.usbx.me/filebrowser/api/public/dl/XXvsvcY2/users/permshare/AppleMusicDecrypt-Windows_latest.7z).
+
+##### Download ALAC locally
+
+!!! info
+	[Read Guide](https://rentry.co/YWxhYyBkbCBndWlkZSAxMzM3). Download ALAC on Windows locally, if you have paid account. Follow guide *carefully*. Not for novices. Thanks to 0dx.
+
+##### AME
+
+!!! info
+	[Download](https://gitlab.com/SuperSaltyGamer/ame/-/raw/main/dist/applemusic.user.js). Show quality, stores and more on Apple Music with AME-script. Requires Violentmonkey/Tampermonkey.
+
+##### Install GamDL on Termux (Android)
+
+!!! info
+	[Read Guide](https://telegra.ph/INSTALLING-GAMDL-ON-TERMUX-ENVIRONMENT-08-24). Install GamDL on Termux (Android). Thanks to Tmxkwpn. Support-channel: https://t.me/firehawk52official
+
+### ![Qobuz](https://files.catbox.moe/295w2s.svg){40px:40px} Qobuz
+
+##### Add direct links on Qobuz
+
+!!! info
+	[Download](https://rentry.co/qobuzlinkifier). Removes payment-related elements and makes it easy to access direct links to tracks/playlists/albums/artists/labels. Requires Violentmonkey/Tampermonkey. Thanks to FrankYaLatr.
+
+##### Extract userid and token
+
+!!! info
+	[Download](https://rentry.co/qobuzcredentialslogger). Extracts the userid and token when logged in. Requires Violentmonkey/Tampermonkey. Thanks to FrankYaLatr.
+
+##### Stream via auth-token
+
+!!! info
+	[Download](https://gist.github.com/uhwot/8250904f3e4bfbad684c5ec26943e082/raw/qbztoken.user.js). To use this, add it to a userscript extension in your browser (Violentmonkey and Tampermonkey tested)
+	The token goes into the new field underneath login. Hit ENTER. Do NOT click Login. That's it.
+
+	![Add token here](https://files.catbox.moe/5hht9f.png)
+
+	Please note: this only works for streaming from play.qobuz.com, you cannot access the account settings
+
+	Thanks to uh wot.
+
+	For Android you also need [this script](https://github.com/DJDoubleD/Qobuz-Mobile-Unlock) (more info on site). Thanks to DJDoubleD.
+
+> ## Websites
+
+### Playlist Websites
+
+#### Chosic Playlist Generator
+
+https://www.chosic.com/playlist-generator/ - Generate playlist based on what you love
+
+### Info Websites
+
+#### MusicButler
+
+https://www.musicbutler.io/ - MusicButler lets you know when your favorite musicians and bands have released new music
+
+#### Odesli
+
+https://odesli.co/ - search for songs, albums or artist and find links to all the services where available
+
+#### a-tisket
+
+https://atisket.pulsewidth.org.uk/ / https://etc.marlonob.info/atisket/ - lookup Deezer-albums, Spotify-albums, or Apple Music-albums and find covers, countries where streaming is available and easy-to-copy codes to add missing albums to https://musicbrainz.org/ for use with [MusicBrainz Picard](https://picard.musicbrainz.org/). (thanks to Asher Schwartz)
+
+Alternative: https://musicbrainz.org/doc/Guides/Userscripts
+
+#### Kworb
+
+https://kworb.net/ - if you want to know charts and trending songs in different coutries on different services
+
+### Cover Websites
+
+#### Covers.Musichoarders
+
+https://covers.musichoarders.xyz/ - searches covers from a long list of providers. Search for Artist, Album, Region and Resolution. Can also easily be integrated in Mp3tag, foobar2000 and MusicBee
+
+#### Artwork.TheKVT
+
+http://artwork.thekvt.eu.org - download hi-res covers from Apple Music including animated covers. Thanks to TheKVT
+
+#### AlbumArt
+
+https://albumart.digital/ - a sleek and fast Apple music album art searching website. Thanks to roamingaround
+
+### Downloading Websites
+
+#### Lucida
+
+https://lucida.to / https://lucida.su - download complete albums from ==Spotify==, ==Soundcloud==, ==Qobuz==, ==Deezer==, ==Tidal==. Quality depends on service (at Qobuz up to 24-bit, 192 kHz). From the same team behind DoubleDouble.
+
+#### DoubleDouble
+
+https://doubledouble.top - download complete albums from ==Apple Music== (including lossless ALAC), ==Spotify==, ==Soundcloud==, ==Qobuz==, ==Deezer==, ==Tidal==, ==Amazon Music==, ==KKBox== or ==Napster==. Quality depends on service (at Qobuz up to 24-bit, 192 kHz).
+***
+
+> ## Utilities
+
+### Helium
+
+A music cataloger, tag editor, cd ripper, audio converter, mp3 and flac analyzer, duplicate finder, player and music scrobbler - all in one. Thanks to RinRinxll.
+
+Download [here](https://www.imploded.com).
+
+### Adding support for DSF and SACD in Foobar2000
+
+1. Get SACD Decoder from [Sourceforge](https://sourceforge.net/projects/sacddecoder/files/latest/download)
+2. You will have a .zip-file with these two files foo_dsd_processor and foo_input_sacd
+3. Extract the zip-file (do not just execute the files in the zip-file, it will not work)
+4. Double-click on one of the files and Foobar2000 will automatically open (if closed) and promp you with this Window:
+
+![Component Installer](https://files.catbox.moe/x1z6eu.png)
+
+5. Hit Yes and Apply and Foobar2000 will close
+6. Repeat with the next file and close Foobar2000.
+
+Now Foobar supports DSF and SACD and it can both play and convert those files.
+
+Remember to set your preferred Samplerate and other settings under Settings - Tools - SACD, else it will default to 44100.
+
+![Component Settings](https://files.catbox.moe/zvutx8.png)
+
+> ## Credits
+
+!!! info
+->Created and Maintained by **Firehawk52**<-
+
+->And thank you all the amazing people that helps spread the site and to you who just enjoy using it :heart:<-
+
 🫵🖕
 
