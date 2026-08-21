@@ -19,9 +19,11 @@ voir tableau
 |<https://grinding.zone> | site regroupant d'autres sites sur poe un peu comme cette page |
 |<https://www.craftofexile.com/> | site qui permet de vérifier les ilevel et craft ainsi que de simuler un craft comme en jeu |
 |<https://blight.raelys.com/> | permet de voir les couleurs d'huiles pour annoindre les items |
-|<https://bulk.tftrove.com/> | pour vendre en bulk sur le discord TFT |
+|<https://wealthyexile.com/> | pour avoir une idée de ses currency |
+|<https://poe-hub.com/> | pour vendre en bulk sur le discord TFT |
 |<https://docs.google.com/spreadsheets/d/18WQBtmmPk7XfFnOnBb0rGN2Y7D5GFOTzD81YfdZr1vo/edit?usp=sharing> | copie du google sheet de Path of math, bcp d'infos crafting de base avec fossiles |
 |<https://heartofphos.github.io/exile-leveling/#/build> | aide pour leveler à partir d'un build pob |
+|<https://pathofexile.elrincondelexiliado.com/books/liga-curse-of-the-allflame/page/chuleta-del-sindicato-betrayal-329> | image a importer pour le syndicat |
 
 ## atlas start league
 Start League atlas. n'est plus à jour (version 3.24)   
